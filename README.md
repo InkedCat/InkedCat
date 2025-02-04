@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Allan </h2>
 
-CS student at day and a developer at night.
 
+<p>CS student at day and a developer at night.<p/>
+
+<img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
@@ -61,5 +63,3 @@ CS student at day and a developer at night.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
-
-![](https://komarev.com/ghpvc/?InkedCat&color=0049ff&style=for-the-badge)
