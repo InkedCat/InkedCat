@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
 </picture>
