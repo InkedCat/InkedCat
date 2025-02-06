@@ -19,7 +19,7 @@
 
 <h2 align="center"> ⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently working on [Aspire](https://github.com/kilian-nagel/aspire").
+- 🔭 I’m currently working on [Aspire](https://github.com/kilian-nagel/aspire).
 - 🧐 Learning about **serverless architectures**, **automated deployment**, and a bit of **container orchestration**.
 - 👨‍💻 Most of my projects are available on [Github](https://github.com/InkedCat).
 
