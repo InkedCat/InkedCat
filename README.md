@@ -1,4 +1,4 @@
-# Hi 👋! My name is Allan  <img width="470rem" /> <img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
+# Hi 👋! My name is Allan
 
 ***Student during the day, developer at night.***
 
@@ -88,3 +88,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
