@@ -1,9 +1,21 @@
-# Hi 👋! My name is Allan
+# Hi 👋! My name is Allan  <img width="470rem" /> <img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
 
-***Student at day, developer at night.***
+***Student during the day, developer at night.***
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br />
 
 <h2 align="center">🚀 About Me</h2>
-<p align="justify">Computer science undergraduate, fan of. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.</p>
+<p align="justify">I'm a computer science undergraduate with a strong interest in web development and DevOps. I am always looking to improve and enhance my skills. My enthusiasm for exploring the limits of modern technology enables me to achieve outstanding results in challenging and ever-changing environments.</p>
+
+<br />
 
 <h2 align="center"> ⚡️ A Few Quick Facts</h2>
 
@@ -11,13 +23,7 @@
 - 🧐 Learning about **serverless architectures**, **automated deployment**, and a bit of **container orchestration**.
 - 👨‍💻 Most of my projects are available on [Github](https://github.com/InkedCat).
 
-
-<img src="https://komarev.com/ghpvc/?username=InkedCat&color=blue&style=for-the-badge&abbreviated=true" alt="visitor counter"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InkedCat/InkedCat/snake/github-contribution-grid-snake.svg" />
-</picture>
+<br />
 
 ### WebDev Stack
 
