@@ -20,9 +20,9 @@
 <h2 align="center"> ⚡️ A Few Quick Facts</h2>
 
 - 💻 Currently, I'm working as a Back-end Developer for [Kuzzle](https://kuzzle.io/), utilizing my proficiency in Javascript and Vue to create the best IoT platform.
-- 🧐 Learning about **serverless computing**, **automated deployment**, and a bit of **container orchestration**.
-- 🔭 Right now ? I'm working on [Aspire](https://github.com/kilian-nagel/aspire).
-- 👨‍💻 Most of my projects are available on [Github](https://github.com/InkedCat) (Actually, a lot are private 🤐).
+- 🧐 Learning about **container orchestration**, **automated deployment**, and a bit of **serverless computing**.
+- 🔭 Right now ? I'm working on [Aspire](https://github.com/kilian-nagel/aspire) and [DediLauncher](https://github.com/InkedCat/DediLauncher).
+- 👨‍💻 Most of my projects are available on Github (Actually, a lot are private 🤐).
 
 <br />
 
