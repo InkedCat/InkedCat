@@ -21,7 +21,7 @@
 
 - 💻 Currently, I'm working as a Back-end Developer for [Kuzzle](https://kuzzle.io/), utilizing my proficiency in Javascript and Vue to create the best IoT platform.
 - 🧐 Learning about **container orchestration**, **automated deployment**, and a bit of **serverless computing**.
-- 🔭 Right now ? I'm working on [Aspire](https://github.com/kilian-nagel/aspire) and [DediLauncher](https://github.com/InkedCat/DediLauncher).
+- 🔭 Right now ? I'm working on [VaultLauncher](https://github.com/InkedCat/Vault-Launcher).
 - 👨‍💻 Most of my projects are available on Github (Actually, a lot are private 🤐).
 
 <br />
