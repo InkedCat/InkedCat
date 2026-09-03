@@ -13,7 +13,7 @@
 
 - Currently working as a DevOps engineer for [Kuzzle](https://kuzzle.io/), utilizing my skills to create the best IoT platform.
 - Learning about **container orchestration**, **automated deployment**, and a bit of **kernel building**.
-- Right now ? I'm working on [Ink](https://github.com/InkedCat/Vault-Launcher), my own OS.
+- Right now ? I'm working on [Ink](https://github.com/InkedCat/Ink), my own OS.
 
 <br />
 
